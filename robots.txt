@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hisabat.com/sitemap.xml
